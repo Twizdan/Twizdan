@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twizdan&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
 
 ## Top Skills & Tools
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=flat-square&logo=Python)
-![PyTorch](https://img.shields.io/badge/PyTorch-%2320232a.svg?style=flat-square&logo=PyTorch)
-![NumPy](https://img.shields.io/badge/NumPy-%2320232a.svg?style=flat-square&logo=NumPy)
-![Pandas](https://img.shields.io/badge/Pandas-%2320232a.svg?style=flat-square&logo=Pandas)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-%2320232a.svg?style=flat-square&logo=Telegram)
 ![Linux](https://img.shields.io/badge/Linux-%2320232a?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-%2320232a?style=flat-square&logo=Figma)
 ![Notion](https://img.shields.io/badge/-Notion-%2320232a?style=flat-square&logo=Notion)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white)
 
 ![ViewsCounter](https://komarev.com/ghpvc/?username=twizdan)
