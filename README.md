@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Github Stats  
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twizdan&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
-
+-->
 ## Top Skills & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
